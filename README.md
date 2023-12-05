@@ -12,22 +12,15 @@ This project implements various machine learning models for Intrusion Detection 
   - Implementation: [RandomForest.ipynb](./random_forest_cicids2017.ipynb)
   - Description: This notebook contains the implementation of a Random Forest Classifier for intrusion detection.
 
-- **AdaBoost Classifier**
-  - Implementation: [XGBoost.ipynb](./AdaBoost.ipynb)
-  - Description: This notebook implements the AdaBoost classifier for detecting network intrusions.
 
 ### Deep Learning Models
 
 - **Neural Network**
-  - Implementation: [NeuralNetwork.ipynb](./NeuralNetwork.ipynb)
-  - Description: This notebook contains the implementation of a simple neural network for intrusion detection.
+  - Implementation: [NeuralNetwork.ipynb](./3DNN%20with%20correlated%20features.ipynb)
+  - Description: This notebook contains the implementation of a  Branched Neural Network for intrusion detection.
 
 
 ### Classic Machine Learning Models
-
-- **Logistic Regression**
-  - Implementation: [LogisticRegression.ipynb](./LogisticRegression.ipynb)
-  - Description: This notebook contains the implementation of a Logistic Regression model for intrusion detection.
 
 - **K-Nearest Neighbors (KNN)**
   - Implementation: [KNN.ipynb](./KNN%20CICIDS%202017.ipynb)
